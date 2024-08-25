@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 5vw;
+    margin-bottom: 50px;
+}
+
+img{
+    width: 100px;
+    display: inline;
+}
+
+.skill{
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+h2{
+    padding-left: 5px;
+}
+
+p{
+    padding-left: 5px;
+}
